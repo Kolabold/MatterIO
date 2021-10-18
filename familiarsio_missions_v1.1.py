@@ -63,7 +63,7 @@ window = tk.Tk()
 window.title("Kolabold's familiars.io Mission Generator")
 window.configure(bg='black')
 window.geometry("800x200")
-myFont = font.Font(family="Helvetica",size=24)
+myFont = font.Font(family="FamIo8",size=24)
 hardModeLabel = tk.Label(text="Hard Mode activated",
                         foreground="white",
                         background="black",
